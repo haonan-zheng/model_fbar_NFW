@@ -1,5 +1,8 @@
 #########################################################
 # Copyright 2024 Haonan Zheng (nan.h.zheng@outlook.com) #
+# Our model is detailed in the appendix of our paper:   #
+# https://arxiv.org/abs/2403.17044,                     #
+# it would be great if you find it useful and cite it!  #
 #########################################################
 
 import numpy as np
